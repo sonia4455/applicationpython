@@ -1,0 +1,15 @@
+class SimpleClass:
+    def simple_method(self):
+        return "Ceci est une méthode"
+
+def simple_function():
+    return "Ceci est une fonction"
+
+# Utilisation de la méthode
+obj = SimpleClass()
+result_method = obj.simple_method()
+print(result_method)
+
+# Utilisation de la fonction
+result_function = simple_function()
+print(result_function)
