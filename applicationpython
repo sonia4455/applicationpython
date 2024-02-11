@@ -11,5 +11,5 @@ result_method = obj.simple_method()
 print(result_method)
 
 # Utilisation de la fonction
-result_function = simple_function()
+result_function = simple_function()+simple_method()
 print(result_function)
