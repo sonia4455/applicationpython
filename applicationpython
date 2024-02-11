@@ -3,7 +3,7 @@ class SimpleClass:
         return "Ceci est une méthode"
 
 def simple_function():
-    return "Ceci est une fonction"
+    return "Ceci est une fonction "
 
 # Utilisation de la méthode
 obj = SimpleClass()
